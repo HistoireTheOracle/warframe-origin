@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"warframe-origins:tenno"
+	],
+	"icon": "minecraft:end_portal_frame",
+	"order": 10,
+	"impact": 0,
+	"name": "Tenno",
+	"description": "According to the Orokin, these beings are true demons beyond existance, they can access what is known as Warframes."
+}

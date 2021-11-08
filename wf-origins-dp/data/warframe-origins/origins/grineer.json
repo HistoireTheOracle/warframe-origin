@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"warframe-origins:grineer"
+	],
+	"icon": "wf-origins-resources:grineer-icon",
+	"order": 10,
+	"impact": 0,
+	"name": "Grineer",
+	"description": "Clones, particularly clones of the Queens. These beings are crude, but they all have quite a shared hatred for the Tenno."
+}
